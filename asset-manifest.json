@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sangrambarge/home/static/css/main.d1b05096.chunk.css",
-    "main.js": "/sangrambarge/home/static/js/main.7edbdca5.chunk.js",
-    "main.js.map": "/sangrambarge/home/static/js/main.7edbdca5.chunk.js.map",
-    "runtime-main.js": "/sangrambarge/home/static/js/runtime-main.bf4a45c0.js",
-    "runtime-main.js.map": "/sangrambarge/home/static/js/runtime-main.bf4a45c0.js.map",
-    "static/js/2.3f62d6d1.chunk.js": "/sangrambarge/home/static/js/2.3f62d6d1.chunk.js",
-    "static/js/2.3f62d6d1.chunk.js.map": "/sangrambarge/home/static/js/2.3f62d6d1.chunk.js.map",
-    "index.html": "/sangrambarge/home/index.html",
-    "precache-manifest.6b8f482bb10c7a9aa447fd35f995b1f7.js": "/sangrambarge/home/precache-manifest.6b8f482bb10c7a9aa447fd35f995b1f7.js",
-    "service-worker.js": "/sangrambarge/home/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/sangrambarge/home/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3f62d6d1.chunk.js.LICENSE": "/sangrambarge/home/static/js/2.3f62d6d1.chunk.js.LICENSE",
-    "static/media/logo.svg": "/sangrambarge/home/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sangrambarge/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sangrambarge/static/js/main.551ce1a6.chunk.js",
+    "main.js.map": "/sangrambarge/static/js/main.551ce1a6.chunk.js.map",
+    "runtime-main.js": "/sangrambarge/static/js/runtime-main.700753ae.js",
+    "runtime-main.js.map": "/sangrambarge/static/js/runtime-main.700753ae.js.map",
+    "static/js/2.3f62d6d1.chunk.js": "/sangrambarge/static/js/2.3f62d6d1.chunk.js",
+    "static/js/2.3f62d6d1.chunk.js.map": "/sangrambarge/static/js/2.3f62d6d1.chunk.js.map",
+    "index.html": "/sangrambarge/index.html",
+    "precache-manifest.36126b168b453a16212c0dc3751cac01.js": "/sangrambarge/precache-manifest.36126b168b453a16212c0dc3751cac01.js",
+    "service-worker.js": "/sangrambarge/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sangrambarge/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3f62d6d1.chunk.js.LICENSE": "/sangrambarge/static/js/2.3f62d6d1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/sangrambarge/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf4a45c0.js",
+    "static/js/runtime-main.700753ae.js",
     "static/js/2.3f62d6d1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.7edbdca5.chunk.js"
+    "static/js/main.551ce1a6.chunk.js"
   ]
 }
